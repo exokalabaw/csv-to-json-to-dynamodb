@@ -46,7 +46,7 @@ async function loopdie(){
         const parsed = JSON.stringify(finalized)
         fs.writeFileSync(`jsonfiles/${whatToParse +'s' + count}.json`,finalized)
 
-        /*exec(`aws dynamodb batch-write-item --request-items file://${whatToParse+'s' + count}.json`, (error, stdout, stderr) => {
+        exec(`aws dynamodb batch-write-item --request-items file://jsonfiles/${whatToParse+'s' + count}.json`, (error, stdout, stderr) => {
           if (error) {
               console.log(`error: ${error.message}`);
               return;
@@ -56,7 +56,7 @@ async function loopdie(){
               return;
           }
           console.log(`stdout: ${stdout}`);
-      });*/
+      });
         console.log('current min is : ' + currentMin + ' current max is : ' + currentMax + ' index is : ' + i)
       count ++
     }
