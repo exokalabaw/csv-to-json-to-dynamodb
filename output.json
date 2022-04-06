@@ -1,0 +1,3262 @@
+[
+ {
+  "No": "1",
+  "defaultStyleTerm": "Alternative"
+ },
+ {
+  "No": "2",
+  "defaultStyleTerm": "Art Punk"
+ },
+ {
+  "No": "3",
+  "defaultStyleTerm": "Alternative Rock"
+ },
+ {
+  "No": "4",
+  "defaultStyleTerm": "Britpunk"
+ },
+ {
+  "No": "5",
+  "defaultStyleTerm": "College Rock"
+ },
+ {
+  "No": "6",
+  "defaultStyleTerm": "Crossover Thrash"
+ },
+ {
+  "No": "7",
+  "defaultStyleTerm": "Crust Punk"
+ },
+ {
+  "No": "8",
+  "defaultStyleTerm": "Emotional Hardcore"
+ },
+ {
+  "No": "9",
+  "defaultStyleTerm": "Emo"
+ },
+ {
+  "No": "10",
+  "defaultStyleTerm": "Emocore"
+ },
+ {
+  "No": "11",
+  "defaultStyleTerm": "Experimental Rock"
+ },
+ {
+  "No": "12",
+  "defaultStyleTerm": "Folk Punk"
+ },
+ {
+  "No": "13",
+  "defaultStyleTerm": "Goth"
+ },
+ {
+  "No": "14",
+  "defaultStyleTerm": "Gothic Rock"
+ },
+ {
+  "No": "15",
+  "defaultStyleTerm": "Grunge"
+ },
+ {
+  "No": "16",
+  "defaultStyleTerm": "Hardcore Punk"
+ },
+ {
+  "No": "17",
+  "defaultStyleTerm": "Hard Rock"
+ },
+ {
+  "No": "18",
+  "defaultStyleTerm": "Indie Rock"
+ },
+ {
+  "No": "19",
+  "defaultStyleTerm": "Lo-fi"
+ },
+ {
+  "No": "20",
+  "defaultStyleTerm": "Musique Concrète"
+ },
+ {
+  "No": "21",
+  "defaultStyleTerm": "New Wave"
+ },
+ {
+  "No": "22",
+  "defaultStyleTerm": "Progressive Rock"
+ },
+ {
+  "No": "23",
+  "defaultStyleTerm": "Punk"
+ },
+ {
+  "No": "24",
+  "defaultStyleTerm": "Shoegaze"
+ },
+ {
+  "No": "25",
+  "defaultStyleTerm": "Steampunk"
+ },
+ {
+  "No": "26",
+  "defaultStyleTerm": "Anime"
+ },
+ {
+  "No": "27",
+  "defaultStyleTerm": "Poetry Rap"
+ },
+ {
+  "No": "28",
+  "defaultStyleTerm": "Blues"
+ },
+ {
+  "No": "29",
+  "defaultStyleTerm": "Acoustic Blues"
+ },
+ {
+  "No": "30",
+  "defaultStyleTerm": "African Blues"
+ },
+ {
+  "No": "31",
+  "defaultStyleTerm": "Blues Rock"
+ },
+ {
+  "No": "32",
+  "defaultStyleTerm": "Blues Shouter"
+ },
+ {
+  "No": "33",
+  "defaultStyleTerm": "British Blues"
+ },
+ {
+  "No": "34",
+  "defaultStyleTerm": "Canadian Blues"
+ },
+ {
+  "No": "35",
+  "defaultStyleTerm": "Chicago Blues"
+ },
+ {
+  "No": "36",
+  "defaultStyleTerm": "Classic Blues"
+ },
+ {
+  "No": "37",
+  "defaultStyleTerm": "Classic Female Blues"
+ },
+ {
+  "No": "38",
+  "defaultStyleTerm": "Contemporary Blues"
+ },
+ {
+  "No": "39",
+  "defaultStyleTerm": "Contemporary R&B"
+ },
+ {
+  "No": "40",
+  "defaultStyleTerm": "Country Blues"
+ },
+ {
+  "No": "41",
+  "defaultStyleTerm": "Dark Blues"
+ },
+ {
+  "No": "42",
+  "defaultStyleTerm": "Delta Blues"
+ },
+ {
+  "No": "43",
+  "defaultStyleTerm": "Detroit Blues"
+ },
+ {
+  "No": "44",
+  "defaultStyleTerm": "Doom Blues"
+ },
+ {
+  "No": "45",
+  "defaultStyleTerm": "Electric Blues"
+ },
+ {
+  "No": "46",
+  "defaultStyleTerm": "Folk Blues"
+ },
+ {
+  "No": "47",
+  "defaultStyleTerm": "Gospel Blues"
+ },
+ {
+  "No": "48",
+  "defaultStyleTerm": "Harmonica Blues"
+ },
+ {
+  "No": "49",
+  "defaultStyleTerm": "Hill Country Blues"
+ },
+ {
+  "No": "50",
+  "defaultStyleTerm": "Hokum Blues"
+ },
+ {
+  "No": "51",
+  "defaultStyleTerm": "Jazz Blues"
+ },
+ {
+  "No": "52",
+  "defaultStyleTerm": "Jump Blues"
+ },
+ {
+  "No": "53",
+  "defaultStyleTerm": "Kansas City Blues"
+ },
+ {
+  "No": "54",
+  "defaultStyleTerm": "Louisiana Blues"
+ },
+ {
+  "No": "55",
+  "defaultStyleTerm": "Memphis Blues"
+ },
+ {
+  "No": "56",
+  "defaultStyleTerm": "Modern Blues"
+ },
+ {
+  "No": "57",
+  "defaultStyleTerm": "New Orlean Blues"
+ },
+ {
+  "No": "58",
+  "defaultStyleTerm": "NY Blues"
+ },
+ {
+  "No": "59",
+  "defaultStyleTerm": "Piano Blues"
+ },
+ {
+  "No": "60",
+  "defaultStyleTerm": "Piedmont Blues"
+ },
+ {
+  "No": "61",
+  "defaultStyleTerm": "Punk Blues"
+ },
+ {
+  "No": "62",
+  "defaultStyleTerm": "Ragtime Blues"
+ },
+ {
+  "No": "63",
+  "defaultStyleTerm": "Rhythm Blues"
+ },
+ {
+  "No": "64",
+  "defaultStyleTerm": "Soul Blues"
+ },
+ {
+  "No": "65",
+  "defaultStyleTerm": "St. Louis Blues"
+ },
+ {
+  "No": "66",
+  "defaultStyleTerm": "Swamp Blues"
+ },
+ {
+  "No": "67",
+  "defaultStyleTerm": "Texas Blues"
+ },
+ {
+  "No": "68",
+  "defaultStyleTerm": "Urban Blues"
+ },
+ {
+  "No": "69",
+  "defaultStyleTerm": "Vandeville"
+ },
+ {
+  "No": "70",
+  "defaultStyleTerm": "West Coast Blues"
+ },
+ {
+  "No": "71",
+  "defaultStyleTerm": "Zydeco"
+ },
+ {
+  "No": "72",
+  "defaultStyleTerm": "Children's Music"
+ },
+ {
+  "No": "73",
+  "defaultStyleTerm": "Lullabies"
+ },
+ {
+  "No": "74",
+  "defaultStyleTerm": "Sing-Along"
+ },
+ {
+  "No": "75",
+  "defaultStyleTerm": "Classical"
+ },
+ {
+  "No": "76",
+  "defaultStyleTerm": "Avant-Garde"
+ },
+ {
+  "No": "77",
+  "defaultStyleTerm": "Ballet"
+ },
+ {
+  "No": "78",
+  "defaultStyleTerm": "Baroque"
+ },
+ {
+  "No": "79",
+  "defaultStyleTerm": "Cantata"
+ },
+ {
+  "No": "80",
+  "defaultStyleTerm": "Chamber Music"
+ },
+ {
+  "No": "81",
+  "defaultStyleTerm": "String Quartet"
+ },
+ {
+  "No": "82",
+  "defaultStyleTerm": "Chant"
+ },
+ {
+  "No": "83",
+  "defaultStyleTerm": "Choral"
+ },
+ {
+  "No": "84",
+  "defaultStyleTerm": "Classical Crossover"
+ },
+ {
+  "No": "85",
+  "defaultStyleTerm": "Concerto"
+ },
+ {
+  "No": "86",
+  "defaultStyleTerm": "Concerto Grosso"
+ },
+ {
+  "No": "87",
+  "defaultStyleTerm": "Contemporary Classical"
+ },
+ {
+  "No": "88",
+  "defaultStyleTerm": "Early Music"
+ },
+ {
+  "No": "89",
+  "defaultStyleTerm": "Expressionist"
+ },
+ {
+  "No": "90",
+  "defaultStyleTerm": "High Classical"
+ },
+ {
+  "No": "91",
+  "defaultStyleTerm": "Impressionist"
+ },
+ {
+  "No": "92",
+  "defaultStyleTerm": "Mass Requiem"
+ },
+ {
+  "No": "93",
+  "defaultStyleTerm": "Medieval"
+ },
+ {
+  "No": "94",
+  "defaultStyleTerm": "Minimalism"
+ },
+ {
+  "No": "95",
+  "defaultStyleTerm": "Modern Composition"
+ },
+ {
+  "No": "96",
+  "defaultStyleTerm": "Modern Classical"
+ },
+ {
+  "No": "97",
+  "defaultStyleTerm": "Opera"
+ },
+ {
+  "No": "98",
+  "defaultStyleTerm": "Oratorio"
+ },
+ {
+  "No": "99",
+  "defaultStyleTerm": "Orchestral"
+ },
+ {
+  "No": "100",
+  "defaultStyleTerm": "Organum"
+ },
+ {
+  "No": "101",
+  "defaultStyleTerm": "Renaissance"
+ },
+ {
+  "No": "102",
+  "defaultStyleTerm": "Romantic"
+ },
+ {
+  "No": "103",
+  "defaultStyleTerm": "Sonata"
+ },
+ {
+  "No": "104",
+  "defaultStyleTerm": "Symphonic"
+ },
+ {
+  "No": "105",
+  "defaultStyleTerm": "Symphony"
+ },
+ {
+  "No": "106",
+  "defaultStyleTerm": "Wedding Music"
+ },
+ {
+  "No": "107",
+  "defaultStyleTerm": "Comedy"
+ },
+ {
+  "No": "108",
+  "defaultStyleTerm": "Novelty"
+ },
+ {
+  "No": "109",
+  "defaultStyleTerm": "Parody Music"
+ },
+ {
+  "No": "110",
+  "defaultStyleTerm": "Stand-up Comedy"
+ },
+ {
+  "No": "111",
+  "defaultStyleTerm": "Vaudeville"
+ },
+ {
+  "No": "112",
+  "defaultStyleTerm": "Commercial"
+ },
+ {
+  "No": "113",
+  "defaultStyleTerm": "Jingles"
+ },
+ {
+  "No": "114",
+  "defaultStyleTerm": "TV Themes"
+ },
+ {
+  "No": "115",
+  "defaultStyleTerm": "Country"
+ },
+ {
+  "No": "116",
+  "defaultStyleTerm": "Alternative Country"
+ },
+ {
+  "No": "117",
+  "defaultStyleTerm": "Americana"
+ },
+ {
+  "No": "118",
+  "defaultStyleTerm": "Australian Country"
+ },
+ {
+  "No": "119",
+  "defaultStyleTerm": "Bakersfield Sound"
+ },
+ {
+  "No": "120",
+  "defaultStyleTerm": "Bluegrass"
+ },
+ {
+  "No": "121",
+  "defaultStyleTerm": "Progressive Bluegrass"
+ },
+ {
+  "No": "122",
+  "defaultStyleTerm": "Reactionary Bluegrass"
+ },
+ {
+  "No": "123",
+  "defaultStyleTerm": "Blues Country"
+ },
+ {
+  "No": "124",
+  "defaultStyleTerm": "Cajun Fiddle Tunes"
+ },
+ {
+  "No": "125",
+  "defaultStyleTerm": "Christian Country"
+ },
+ {
+  "No": "126",
+  "defaultStyleTerm": "Classic Country"
+ },
+ {
+  "No": "127",
+  "defaultStyleTerm": "Close Harmony"
+ },
+ {
+  "No": "128",
+  "defaultStyleTerm": "Contemporary Bluegrass"
+ },
+ {
+  "No": "129",
+  "defaultStyleTerm": "Contemporary Country"
+ },
+ {
+  "No": "130",
+  "defaultStyleTerm": "Country Gospel"
+ },
+ {
+  "No": "131",
+  "defaultStyleTerm": "Country Pop"
+ },
+ {
+  "No": "132",
+  "defaultStyleTerm": "Country Rap"
+ },
+ {
+  "No": "133",
+  "defaultStyleTerm": "Country Rock"
+ },
+ {
+  "No": "134",
+  "defaultStyleTerm": "Country Soul"
+ },
+ {
+  "No": "135",
+  "defaultStyleTerm": "Cowboy / Western"
+ },
+ {
+  "No": "136",
+  "defaultStyleTerm": "Cowpunk"
+ },
+ {
+  "No": "137",
+  "defaultStyleTerm": "Dansband"
+ },
+ {
+  "No": "138",
+  "defaultStyleTerm": "Honky Tonk"
+ },
+ {
+  "No": "139",
+  "defaultStyleTerm": "Franco-Country"
+ },
+ {
+  "No": "140",
+  "defaultStyleTerm": "Gulf and Western"
+ },
+ {
+  "No": "141",
+  "defaultStyleTerm": "Hellbilly Music"
+ },
+ {
+  "No": "142",
+  "defaultStyleTerm": "Instrumental Country"
+ },
+ {
+  "No": "143",
+  "defaultStyleTerm": "Lubbock Sound"
+ },
+ {
+  "No": "144",
+  "defaultStyleTerm": "Nashville Sound"
+ },
+ {
+  "No": "145",
+  "defaultStyleTerm": "Neotraditional Country"
+ },
+ {
+  "No": "146",
+  "defaultStyleTerm": "Outlaw Country"
+ },
+ {
+  "No": "147",
+  "defaultStyleTerm": "Progressive"
+ },
+ {
+  "No": "148",
+  "defaultStyleTerm": "Psychobilly / Punkabilly"
+ },
+ {
+  "No": "149",
+  "defaultStyleTerm": "Red Dirt"
+ },
+ {
+  "No": "150",
+  "defaultStyleTerm": "Sertanejo"
+ },
+ {
+  "No": "151",
+  "defaultStyleTerm": "Texas County"
+ },
+ {
+  "No": "152",
+  "defaultStyleTerm": "Traditional Bluegrass"
+ },
+ {
+  "No": "153",
+  "defaultStyleTerm": "Traditional Country"
+ },
+ {
+  "No": "154",
+  "defaultStyleTerm": "Truck-Driving Country"
+ },
+ {
+  "No": "155",
+  "defaultStyleTerm": "Urban Cowboy"
+ },
+ {
+  "No": "156",
+  "defaultStyleTerm": "Western Swing"
+ },
+ {
+  "No": "157",
+  "defaultStyleTerm": "Dance"
+ },
+ {
+  "No": "158",
+  "defaultStyleTerm": "Club / Club Dance"
+ },
+ {
+  "No": "159",
+  "defaultStyleTerm": "Breakcore"
+ },
+ {
+  "No": "160",
+  "defaultStyleTerm": "Breakbeat / Breakstep"
+ },
+ {
+  "No": "161",
+  "defaultStyleTerm": "4-Beat"
+ },
+ {
+  "No": "162",
+  "defaultStyleTerm": "Acid Breaks"
+ },
+ {
+  "No": "163",
+  "defaultStyleTerm": "Baltimore Club"
+ },
+ {
+  "No": "164",
+  "defaultStyleTerm": "Big Beat"
+ },
+ {
+  "No": "165",
+  "defaultStyleTerm": "Breakbeat Hardcore"
+ },
+ {
+  "No": "166",
+  "defaultStyleTerm": "Broken Beat"
+ },
+ {
+  "No": "167",
+  "defaultStyleTerm": "Florida Breaks"
+ },
+ {
+  "No": "168",
+  "defaultStyleTerm": "Nu Skool Breaks"
+ },
+ {
+  "No": "169",
+  "defaultStyleTerm": "Brostep"
+ },
+ {
+  "No": "170",
+  "defaultStyleTerm": "Chillstep"
+ },
+ {
+  "No": "171",
+  "defaultStyleTerm": "Deep House"
+ },
+ {
+  "No": "172",
+  "defaultStyleTerm": "Dubstep"
+ },
+ {
+  "No": "173",
+  "defaultStyleTerm": "Electro House"
+ },
+ {
+  "No": "174",
+  "defaultStyleTerm": "Electroswing"
+ },
+ {
+  "No": "175",
+  "defaultStyleTerm": "Exercise"
+ },
+ {
+  "No": "176",
+  "defaultStyleTerm": "Future Garage"
+ },
+ {
+  "No": "177",
+  "defaultStyleTerm": "Garage"
+ },
+ {
+  "No": "178",
+  "defaultStyleTerm": "Glitch Hop"
+ },
+ {
+  "No": "179",
+  "defaultStyleTerm": "Glitch Pop"
+ },
+ {
+  "No": "180",
+  "defaultStyleTerm": "Grime"
+ },
+ {
+  "No": "181",
+  "defaultStyleTerm": "Hardcore"
+ },
+ {
+  "No": "182",
+  "defaultStyleTerm": "Bouncy House"
+ },
+ {
+  "No": "183",
+  "defaultStyleTerm": "Bouncy Techno"
+ },
+ {
+  "No": "184",
+  "defaultStyleTerm": "Digital Hardcore"
+ },
+ {
+  "No": "185",
+  "defaultStyleTerm": "Doomcore"
+ },
+ {
+  "No": "186",
+  "defaultStyleTerm": "Dubstyle"
+ },
+ {
+  "No": "187",
+  "defaultStyleTerm": "Gabber"
+ },
+ {
+  "No": "188",
+  "defaultStyleTerm": "Happy Hardcore"
+ },
+ {
+  "No": "189",
+  "defaultStyleTerm": "Hardstyle"
+ },
+ {
+  "No": "190",
+  "defaultStyleTerm": "Jumpstyle"
+ },
+ {
+  "No": "191",
+  "defaultStyleTerm": "Makina"
+ },
+ {
+  "No": "192",
+  "defaultStyleTerm": "Speedcore"
+ },
+ {
+  "No": "193",
+  "defaultStyleTerm": "Terrorcore"
+ },
+ {
+  "No": "194",
+  "defaultStyleTerm": "Uk Hardcore"
+ },
+ {
+  "No": "195",
+  "defaultStyleTerm": "Hard Dance"
+ },
+ {
+  "No": "196",
+  "defaultStyleTerm": "Hi-NRG / Eurodance"
+ },
+ {
+  "No": "197",
+  "defaultStyleTerm": "Horrorcore"
+ },
+ {
+  "No": "198",
+  "defaultStyleTerm": "House"
+ },
+ {
+  "No": "199",
+  "defaultStyleTerm": "Acid House"
+ },
+ {
+  "No": "200",
+  "defaultStyleTerm": "Chicago House"
+ },
+ {
+  "No": "201",
+  "defaultStyleTerm": "Diva House"
+ },
+ {
+  "No": "202",
+  "defaultStyleTerm": "Dutch House"
+ },
+ {
+  "No": "203",
+  "defaultStyleTerm": "Freestyle House"
+ },
+ {
+  "No": "204",
+  "defaultStyleTerm": "French House"
+ },
+ {
+  "No": "205",
+  "defaultStyleTerm": "Funky House"
+ },
+ {
+  "No": "206",
+  "defaultStyleTerm": "Ghetto House"
+ },
+ {
+  "No": "207",
+  "defaultStyleTerm": "Hardbag"
+ },
+ {
+  "No": "208",
+  "defaultStyleTerm": "Hip House"
+ },
+ {
+  "No": "209",
+  "defaultStyleTerm": "Italo House"
+ },
+ {
+  "No": "210",
+  "defaultStyleTerm": "Latin House"
+ },
+ {
+  "No": "211",
+  "defaultStyleTerm": "Minimal House"
+ },
+ {
+  "No": "212",
+  "defaultStyleTerm": "Progressive House"
+ },
+ {
+  "No": "213",
+  "defaultStyleTerm": "Rave Music"
+ },
+ {
+  "No": "214",
+  "defaultStyleTerm": "Swing House"
+ },
+ {
+  "No": "215",
+  "defaultStyleTerm": "Tech HouseTribal House"
+ },
+ {
+  "No": "216",
+  "defaultStyleTerm": "UK Hard House"
+ },
+ {
+  "No": "217",
+  "defaultStyleTerm": "US Garage"
+ },
+ {
+  "No": "218",
+  "defaultStyleTerm": "Vocal House"
+ },
+ {
+  "No": "219",
+  "defaultStyleTerm": "Jackin House"
+ },
+ {
+  "No": "220",
+  "defaultStyleTerm": "Jungle / Drum’n’bass"
+ },
+ {
+  "No": "221",
+  "defaultStyleTerm": "Liquid Dub"
+ },
+ {
+  "No": "222",
+  "defaultStyleTerm": "Regstep"
+ },
+ {
+  "No": "223",
+  "defaultStyleTerm": "Techno"
+ },
+ {
+  "No": "224",
+  "defaultStyleTerm": "Acid Techno"
+ },
+ {
+  "No": "225",
+  "defaultStyleTerm": "Detroit Techno"
+ },
+ {
+  "No": "226",
+  "defaultStyleTerm": "Free Tekno"
+ },
+ {
+  "No": "227",
+  "defaultStyleTerm": "Ghettotech"
+ },
+ {
+  "No": "228",
+  "defaultStyleTerm": "Minimal"
+ },
+ {
+  "No": "229",
+  "defaultStyleTerm": "Nortec"
+ },
+ {
+  "No": "230",
+  "defaultStyleTerm": "Schranz"
+ },
+ {
+  "No": "231",
+  "defaultStyleTerm": "Techno-Dnb"
+ },
+ {
+  "No": "232",
+  "defaultStyleTerm": "Technopop"
+ },
+ {
+  "No": "233",
+  "defaultStyleTerm": "Tecno Brega"
+ },
+ {
+  "No": "234",
+  "defaultStyleTerm": "Toytown Techno"
+ },
+ {
+  "No": "235",
+  "defaultStyleTerm": "Trance"
+ },
+ {
+  "No": "236",
+  "defaultStyleTerm": "Acid Trance"
+ },
+ {
+  "No": "237",
+  "defaultStyleTerm": "Classic Trance"
+ },
+ {
+  "No": "238",
+  "defaultStyleTerm": "Dream Trance"
+ },
+ {
+  "No": "239",
+  "defaultStyleTerm": "Goa Trance"
+ },
+ {
+  "No": "240",
+  "defaultStyleTerm": "Dark Psytrance"
+ },
+ {
+  "No": "241",
+  "defaultStyleTerm": "Full on"
+ },
+ {
+  "No": "242",
+  "defaultStyleTerm": "Psybreaks"
+ },
+ {
+  "No": "243",
+  "defaultStyleTerm": "Psyprog"
+ },
+ {
+  "No": "244",
+  "defaultStyleTerm": "Suomisaundi"
+ },
+ {
+  "No": "245",
+  "defaultStyleTerm": "Hard Trance"
+ },
+ {
+  "No": "246",
+  "defaultStyleTerm": "Tech Trance"
+ },
+ {
+  "No": "247",
+  "defaultStyleTerm": "Uplifting Trance"
+ },
+ {
+  "No": "248",
+  "defaultStyleTerm": "Orchestral Uplifting"
+ },
+ {
+  "No": "249",
+  "defaultStyleTerm": "Vocal Trance"
+ },
+ {
+  "No": "250",
+  "defaultStyleTerm": "Trap"
+ },
+ {
+  "No": "251",
+  "defaultStyleTerm": "Disney"
+ },
+ {
+  "No": "252",
+  "defaultStyleTerm": "Easy Listening"
+ },
+ {
+  "No": "253",
+  "defaultStyleTerm": "Background"
+ },
+ {
+  "No": "254",
+  "defaultStyleTerm": "Bop"
+ },
+ {
+  "No": "255",
+  "defaultStyleTerm": "Elevator"
+ },
+ {
+  "No": "256",
+  "defaultStyleTerm": "Furniture"
+ },
+ {
+  "No": "257",
+  "defaultStyleTerm": "Lounge"
+ },
+ {
+  "No": "258",
+  "defaultStyleTerm": "Middle of the Road"
+ },
+ {
+  "No": "259",
+  "defaultStyleTerm": "Swing"
+ },
+ {
+  "No": "260",
+  "defaultStyleTerm": "Electronic"
+ },
+ {
+  "No": "261",
+  "defaultStyleTerm": "2-Step"
+ },
+ {
+  "No": "262",
+  "defaultStyleTerm": "8bit / 8-bit / Bitpop / Chiptune"
+ },
+ {
+  "No": "263",
+  "defaultStyleTerm": "Ambient"
+ },
+ {
+  "No": "264",
+  "defaultStyleTerm": "Ambient Dub"
+ },
+ {
+  "No": "265",
+  "defaultStyleTerm": "Ambient House"
+ },
+ {
+  "No": "266",
+  "defaultStyleTerm": "Ambient Techno"
+ },
+ {
+  "No": "267",
+  "defaultStyleTerm": "Dark Ambient"
+ },
+ {
+  "No": "268",
+  "defaultStyleTerm": "Drone Music"
+ },
+ {
+  "No": "269",
+  "defaultStyleTerm": "Illbient"
+ },
+ {
+  "No": "270",
+  "defaultStyleTerm": "Isolationism"
+ },
+ {
+  "No": "271",
+  "defaultStyleTerm": "Lowercase"
+ },
+ {
+  "No": "272",
+  "defaultStyleTerm": "Asian Underground"
+ },
+ {
+  "No": "273",
+  "defaultStyleTerm": "Bassline"
+ },
+ {
+  "No": "274",
+  "defaultStyleTerm": "Chillwave"
+ },
+ {
+  "No": "275",
+  "defaultStyleTerm": "Chiptune"
+ },
+ {
+  "No": "276",
+  "defaultStyleTerm": "Bitpop"
+ },
+ {
+  "No": "277",
+  "defaultStyleTerm": "Game Boy"
+ },
+ {
+  "No": "278",
+  "defaultStyleTerm": "Nintendocore"
+ },
+ {
+  "No": "279",
+  "defaultStyleTerm": "Video Game Music"
+ },
+ {
+  "No": "280",
+  "defaultStyleTerm": "Yorkshire Bleeps and Bass"
+ },
+ {
+  "No": "281",
+  "defaultStyleTerm": "Crunk"
+ },
+ {
+  "No": "282",
+  "defaultStyleTerm": "Downtempo"
+ },
+ {
+  "No": "283",
+  "defaultStyleTerm": "Acid Jazz"
+ },
+ {
+  "No": "284",
+  "defaultStyleTerm": "Balearic Beat"
+ },
+ {
+  "No": "285",
+  "defaultStyleTerm": "Chill Out"
+ },
+ {
+  "No": "286",
+  "defaultStyleTerm": "Dub Music"
+ },
+ {
+  "No": "287",
+  "defaultStyleTerm": "Dubtronica"
+ },
+ {
+  "No": "288",
+  "defaultStyleTerm": "Ethnic Electronica"
+ },
+ {
+  "No": "289",
+  "defaultStyleTerm": "Moombahton"
+ },
+ {
+  "No": "290",
+  "defaultStyleTerm": "Nu Jazz"
+ },
+ {
+  "No": "291",
+  "defaultStyleTerm": "Trip Hop"
+ },
+ {
+  "No": "292",
+  "defaultStyleTerm": "Drum & Bass"
+ },
+ {
+  "No": "293",
+  "defaultStyleTerm": "Darkcore"
+ },
+ {
+  "No": "294",
+  "defaultStyleTerm": "Darkstep"
+ },
+ {
+  "No": "295",
+  "defaultStyleTerm": "Drumfunk"
+ },
+ {
+  "No": "296",
+  "defaultStyleTerm": "Drumstep"
+ },
+ {
+  "No": "297",
+  "defaultStyleTerm": "Hardstep"
+ },
+ {
+  "No": "298",
+  "defaultStyleTerm": "Intelligent Drum and Bass"
+ },
+ {
+  "No": "299",
+  "defaultStyleTerm": "Jump-Up"
+ },
+ {
+  "No": "300",
+  "defaultStyleTerm": "Liquid Funk"
+ },
+ {
+  "No": "301",
+  "defaultStyleTerm": "Neurofunk"
+ },
+ {
+  "No": "302",
+  "defaultStyleTerm": "Oldschool Jungle"
+ },
+ {
+  "No": "303",
+  "defaultStyleTerm": "Darkside Jungle"
+ },
+ {
+  "No": "304",
+  "defaultStyleTerm": "Ragga Jungle"
+ },
+ {
+  "No": "305",
+  "defaultStyleTerm": "Raggacore"
+ },
+ {
+  "No": "306",
+  "defaultStyleTerm": "Sambass"
+ },
+ {
+  "No": "307",
+  "defaultStyleTerm": "Techstep"
+ },
+ {
+  "No": "308",
+  "defaultStyleTerm": "Electro"
+ },
+ {
+  "No": "309",
+  "defaultStyleTerm": "Electro Backbeat"
+ },
+ {
+  "No": "310",
+  "defaultStyleTerm": "Electro-Grime"
+ },
+ {
+  "No": "311",
+  "defaultStyleTerm": "Electropop"
+ },
+ {
+  "No": "312",
+  "defaultStyleTerm": "Electro-swing"
+ },
+ {
+  "No": "313",
+  "defaultStyleTerm": "Electroacoustic"
+ },
+ {
+  "No": "314",
+  "defaultStyleTerm": "Acousmatic Music"
+ },
+ {
+  "No": "315",
+  "defaultStyleTerm": "Computer Music"
+ },
+ {
+  "No": "316",
+  "defaultStyleTerm": "Electroacoustic Improvisation"
+ },
+ {
+  "No": "317",
+  "defaultStyleTerm": "Field Recording"
+ },
+ {
+  "No": "318",
+  "defaultStyleTerm": "Live Coding"
+ },
+ {
+  "No": "319",
+  "defaultStyleTerm": "Live Electronics"
+ },
+ {
+  "No": "320",
+  "defaultStyleTerm": "Soundscape Composition"
+ },
+ {
+  "No": "321",
+  "defaultStyleTerm": "Tape Music"
+ },
+ {
+  "No": "322",
+  "defaultStyleTerm": "Electronica"
+ },
+ {
+  "No": "323",
+  "defaultStyleTerm": "Berlin School"
+ },
+ {
+  "No": "324",
+  "defaultStyleTerm": "Electronic Art Music"
+ },
+ {
+  "No": "325",
+  "defaultStyleTerm": "Electronic Dance Music"
+ },
+ {
+  "No": "326",
+  "defaultStyleTerm": "Folktronica"
+ },
+ {
+  "No": "327",
+  "defaultStyleTerm": "Freestyle Music"
+ },
+ {
+  "No": "328",
+  "defaultStyleTerm": "Glitch"
+ },
+ {
+  "No": "329",
+  "defaultStyleTerm": "Idm"
+ },
+ {
+  "No": "330",
+  "defaultStyleTerm": "Laptronica"
+ },
+ {
+  "No": "331",
+  "defaultStyleTerm": "Skweee"
+ },
+ {
+  "No": "332",
+  "defaultStyleTerm": "Sound Art"
+ },
+ {
+  "No": "333",
+  "defaultStyleTerm": "Synthcore"
+ },
+ {
+  "No": "334",
+  "defaultStyleTerm": "Electronic Rock"
+ },
+ {
+  "No": "335",
+  "defaultStyleTerm": "Alternative Dance"
+ },
+ {
+  "No": "336",
+  "defaultStyleTerm": "Baggy"
+ },
+ {
+  "No": "337",
+  "defaultStyleTerm": "Madchester"
+ },
+ {
+  "No": "338",
+  "defaultStyleTerm": "Dance-Punk"
+ },
+ {
+  "No": "339",
+  "defaultStyleTerm": "Dance-Rock"
+ },
+ {
+  "No": "340",
+  "defaultStyleTerm": "Dark Wave"
+ },
+ {
+  "No": "341",
+  "defaultStyleTerm": "Electroclash"
+ },
+ {
+  "No": "342",
+  "defaultStyleTerm": "Electronicore"
+ },
+ {
+  "No": "343",
+  "defaultStyleTerm": "Electropunk"
+ },
+ {
+  "No": "344",
+  "defaultStyleTerm": "Ethereal Wave"
+ },
+ {
+  "No": "345",
+  "defaultStyleTerm": "Indietronica"
+ },
+ {
+  "No": "346",
+  "defaultStyleTerm": "New Rave"
+ },
+ {
+  "No": "347",
+  "defaultStyleTerm": "Space Rock"
+ },
+ {
+  "No": "348",
+  "defaultStyleTerm": "Synthpop"
+ },
+ {
+  "No": "349",
+  "defaultStyleTerm": "Synthpunk"
+ },
+ {
+  "No": "350",
+  "defaultStyleTerm": "Eurodance"
+ },
+ {
+  "No": "351",
+  "defaultStyleTerm": "Bubblegum Dance"
+ },
+ {
+  "No": "352",
+  "defaultStyleTerm": "Italo Dance"
+ },
+ {
+  "No": "353",
+  "defaultStyleTerm": "Turbofolk"
+ },
+ {
+  "No": "354",
+  "defaultStyleTerm": "Hi-Nrg"
+ },
+ {
+  "No": "355",
+  "defaultStyleTerm": "Eurobeat"
+ },
+ {
+  "No": "356",
+  "defaultStyleTerm": "Hard Nrg"
+ },
+ {
+  "No": "357",
+  "defaultStyleTerm": "New Beat"
+ },
+ {
+  "No": "358",
+  "defaultStyleTerm": "IDM/Experimental"
+ },
+ {
+  "No": "359",
+  "defaultStyleTerm": "Industrial"
+ },
+ {
+  "No": "360",
+  "defaultStyleTerm": "UK Garage"
+ },
+ {
+  "No": "361",
+  "defaultStyleTerm": "4×4"
+ },
+ {
+  "No": "362",
+  "defaultStyleTerm": "Speed Garage"
+ },
+ {
+  "No": "363",
+  "defaultStyleTerm": "Enka"
+ },
+ {
+  "No": "364",
+  "defaultStyleTerm": "French Pop"
+ },
+ {
+  "No": "365",
+  "defaultStyleTerm": "Folk Music"
+ },
+ {
+  "No": "366",
+  "defaultStyleTerm": "American Folk Revival"
+ },
+ {
+  "No": "367",
+  "defaultStyleTerm": "Anti-Folk"
+ },
+ {
+  "No": "368",
+  "defaultStyleTerm": "British Folk Revival"
+ },
+ {
+  "No": "369",
+  "defaultStyleTerm": "Contemporary Folk"
+ },
+ {
+  "No": "370",
+  "defaultStyleTerm": "Filk Music"
+ },
+ {
+  "No": "371",
+  "defaultStyleTerm": "Freak Folk"
+ },
+ {
+  "No": "372",
+  "defaultStyleTerm": "Indie Folk"
+ },
+ {
+  "No": "373",
+  "defaultStyleTerm": "Industrial Folk"
+ },
+ {
+  "No": "374",
+  "defaultStyleTerm": "Neofolk"
+ },
+ {
+  "No": "375",
+  "defaultStyleTerm": "Progressive Folk"
+ },
+ {
+  "No": "376",
+  "defaultStyleTerm": "Psychedelic Folk"
+ },
+ {
+  "No": "377",
+  "defaultStyleTerm": "Sung Poetry"
+ },
+ {
+  "No": "378",
+  "defaultStyleTerm": "Techno-Folk"
+ },
+ {
+  "No": "379",
+  "defaultStyleTerm": "German Folk"
+ },
+ {
+  "No": "380",
+  "defaultStyleTerm": "German Pop"
+ },
+ {
+  "No": "381",
+  "defaultStyleTerm": "Fitness & Workout"
+ },
+ {
+  "No": "382",
+  "defaultStyleTerm": "Hip-Hop/Rap"
+ },
+ {
+  "No": "383",
+  "defaultStyleTerm": "Alternative Rap"
+ },
+ {
+  "No": "384",
+  "defaultStyleTerm": "Avant-Garde Hip-Hop"
+ },
+ {
+  "No": "385",
+  "defaultStyleTerm": "Bounce"
+ },
+ {
+  "No": "386",
+  "defaultStyleTerm": "Chap Hop"
+ },
+ {
+  "No": "387",
+  "defaultStyleTerm": "Christian Hip Hop"
+ },
+ {
+  "No": "388",
+  "defaultStyleTerm": "Conscious Hip Hop"
+ },
+ {
+  "No": "389",
+  "defaultStyleTerm": "Country-Rap"
+ },
+ {
+  "No": "390",
+  "defaultStyleTerm": "Crunkcore"
+ },
+ {
+  "No": "391",
+  "defaultStyleTerm": "Cumbia Rap"
+ },
+ {
+  "No": "392",
+  "defaultStyleTerm": "Dirty South"
+ },
+ {
+  "No": "393",
+  "defaultStyleTerm": "East Coast"
+ },
+ {
+  "No": "394",
+  "defaultStyleTerm": "Brick City Club"
+ },
+ {
+  "No": "395",
+  "defaultStyleTerm": "Hardcore Hip Hop"
+ },
+ {
+  "No": "396",
+  "defaultStyleTerm": "Mafioso Rap"
+ },
+ {
+  "No": "397",
+  "defaultStyleTerm": "New Jersey Hip Hop"
+ },
+ {
+  "No": "398",
+  "defaultStyleTerm": "Freestyle Rap"
+ },
+ {
+  "No": "399",
+  "defaultStyleTerm": "G-Funk"
+ },
+ {
+  "No": "400",
+  "defaultStyleTerm": "Gangsta Rap"
+ },
+ {
+  "No": "401",
+  "defaultStyleTerm": "Golden Age"
+ },
+ {
+  "No": "402",
+  "defaultStyleTerm": "Hardcore Rap"
+ },
+ {
+  "No": "403",
+  "defaultStyleTerm": "Hip-Hop"
+ },
+ {
+  "No": "404",
+  "defaultStyleTerm": "Hip Pop"
+ },
+ {
+  "No": "405",
+  "defaultStyleTerm": "Hyphy"
+ },
+ {
+  "No": "406",
+  "defaultStyleTerm": "Industrial Hip Hop"
+ },
+ {
+  "No": "407",
+  "defaultStyleTerm": "Instrumental Hip Hop"
+ },
+ {
+  "No": "408",
+  "defaultStyleTerm": "Jazz Rap"
+ },
+ {
+  "No": "409",
+  "defaultStyleTerm": "Latin Rap"
+ },
+ {
+  "No": "410",
+  "defaultStyleTerm": "Low Bap"
+ },
+ {
+  "No": "411",
+  "defaultStyleTerm": "Lyrical Hip Hop"
+ },
+ {
+  "No": "412",
+  "defaultStyleTerm": "Merenrap"
+ },
+ {
+  "No": "413",
+  "defaultStyleTerm": "Midwest Hip Hop"
+ },
+ {
+  "No": "414",
+  "defaultStyleTerm": "Chicago Hip Hop"
+ },
+ {
+  "No": "415",
+  "defaultStyleTerm": "Detroit Hip Hop"
+ },
+ {
+  "No": "416",
+  "defaultStyleTerm": "St. Louis Hip Hop"
+ },
+ {
+  "No": "417",
+  "defaultStyleTerm": "Twin Cities Hip Hop"
+ },
+ {
+  "No": "418",
+  "defaultStyleTerm": "Motswako"
+ },
+ {
+  "No": "419",
+  "defaultStyleTerm": "Nerdcore"
+ },
+ {
+  "No": "420",
+  "defaultStyleTerm": "New Jack Swing"
+ },
+ {
+  "No": "421",
+  "defaultStyleTerm": "New School Hip Hop"
+ },
+ {
+  "No": "422",
+  "defaultStyleTerm": "Old School Rap"
+ },
+ {
+  "No": "423",
+  "defaultStyleTerm": "Rap"
+ },
+ {
+  "No": "424",
+  "defaultStyleTerm": "Turntablism"
+ },
+ {
+  "No": "425",
+  "defaultStyleTerm": "Underground Rap"
+ },
+ {
+  "No": "426",
+  "defaultStyleTerm": "West Coast Rap"
+ },
+ {
+  "No": "427",
+  "defaultStyleTerm": "Holiday"
+ },
+ {
+  "No": "428",
+  "defaultStyleTerm": "Chanukah"
+ },
+ {
+  "No": "429",
+  "defaultStyleTerm": "Christmas"
+ },
+ {
+  "No": "430",
+  "defaultStyleTerm": "Christmas: Children’s"
+ },
+ {
+  "No": "431",
+  "defaultStyleTerm": "Christmas: Classic"
+ },
+ {
+  "No": "432",
+  "defaultStyleTerm": "Christmas: Classical"
+ },
+ {
+  "No": "433",
+  "defaultStyleTerm": "Christmas: Comedy"
+ },
+ {
+  "No": "434",
+  "defaultStyleTerm": "Christmas: Jazz"
+ },
+ {
+  "No": "435",
+  "defaultStyleTerm": "Christmas: Modern"
+ },
+ {
+  "No": "436",
+  "defaultStyleTerm": "Christmas: Pop"
+ },
+ {
+  "No": "437",
+  "defaultStyleTerm": "Christmas: R&B"
+ },
+ {
+  "No": "438",
+  "defaultStyleTerm": "Christmas: Religious"
+ },
+ {
+  "No": "439",
+  "defaultStyleTerm": "Christmas: Rock"
+ },
+ {
+  "No": "440",
+  "defaultStyleTerm": "Easter"
+ },
+ {
+  "No": "441",
+  "defaultStyleTerm": "Halloween"
+ },
+ {
+  "No": "442",
+  "defaultStyleTerm": "Holiday: Other"
+ },
+ {
+  "No": "443",
+  "defaultStyleTerm": "Thanksgiving"
+ },
+ {
+  "No": "444",
+  "defaultStyleTerm": "Indie Pop"
+ },
+ {
+  "No": "445",
+  "defaultStyleTerm": "Aggrotech"
+ },
+ {
+  "No": "446",
+  "defaultStyleTerm": "Coldwave"
+ },
+ {
+  "No": "447",
+  "defaultStyleTerm": "Cybergrind"
+ },
+ {
+  "No": "448",
+  "defaultStyleTerm": "Dark Electro"
+ },
+ {
+  "No": "449",
+  "defaultStyleTerm": "Death Industrial"
+ },
+ {
+  "No": "450",
+  "defaultStyleTerm": "Electro-Industrial"
+ },
+ {
+  "No": "451",
+  "defaultStyleTerm": "Electronic Body Music"
+ },
+ {
+  "No": "452",
+  "defaultStyleTerm": "Futurepop"
+ },
+ {
+  "No": "453",
+  "defaultStyleTerm": "Industrial Metal"
+ },
+ {
+  "No": "454",
+  "defaultStyleTerm": "Neue Deutsche Härte"
+ },
+ {
+  "No": "455",
+  "defaultStyleTerm": "Industrial Rock"
+ },
+ {
+  "No": "456",
+  "defaultStyleTerm": "Noise"
+ },
+ {
+  "No": "457",
+  "defaultStyleTerm": "Japanoise"
+ },
+ {
+  "No": "458",
+  "defaultStyleTerm": "Power Electronics"
+ },
+ {
+  "No": "459",
+  "defaultStyleTerm": "Power Noise"
+ },
+ {
+  "No": "460",
+  "defaultStyleTerm": "Witch House"
+ },
+ {
+  "No": "461",
+  "defaultStyleTerm": "Inspirational – Christian & Gospel"
+ },
+ {
+  "No": "462",
+  "defaultStyleTerm": "CCM"
+ },
+ {
+  "No": "463",
+  "defaultStyleTerm": "Christian Metal"
+ },
+ {
+  "No": "464",
+  "defaultStyleTerm": "Christian Pop"
+ },
+ {
+  "No": "465",
+  "defaultStyleTerm": "Christian Rap"
+ },
+ {
+  "No": "466",
+  "defaultStyleTerm": "Christian Rock"
+ },
+ {
+  "No": "467",
+  "defaultStyleTerm": "Classic Christian"
+ },
+ {
+  "No": "468",
+  "defaultStyleTerm": "Contemporary Gospel"
+ },
+ {
+  "No": "469",
+  "defaultStyleTerm": "Gospel"
+ },
+ {
+  "No": "470",
+  "defaultStyleTerm": "Christian & Gospel"
+ },
+ {
+  "No": "471",
+  "defaultStyleTerm": "Praise & Worship"
+ },
+ {
+  "No": "472",
+  "defaultStyleTerm": "Qawwali"
+ },
+ {
+  "No": "473",
+  "defaultStyleTerm": "Southern Gospel"
+ },
+ {
+  "No": "474",
+  "defaultStyleTerm": "Traditional Gospel"
+ },
+ {
+  "No": "475",
+  "defaultStyleTerm": "Instrumental"
+ },
+ {
+  "No": "476",
+  "defaultStyleTerm": "March"
+ },
+ {
+  "No": "477",
+  "defaultStyleTerm": "J-Pop"
+ },
+ {
+  "No": "478",
+  "defaultStyleTerm": "J-Rock"
+ },
+ {
+  "No": "479",
+  "defaultStyleTerm": "J-Synth"
+ },
+ {
+  "No": "480",
+  "defaultStyleTerm": "J-Ska"
+ },
+ {
+  "No": "481",
+  "defaultStyleTerm": "J-Punk"
+ },
+ {
+  "No": "482",
+  "defaultStyleTerm": "Jazz"
+ },
+ {
+  "No": "483",
+  "defaultStyleTerm": "Avant-Garde Jazz"
+ },
+ {
+  "No": "484",
+  "defaultStyleTerm": "Bebop"
+ },
+ {
+  "No": "485",
+  "defaultStyleTerm": "Big Band"
+ },
+ {
+  "No": "486",
+  "defaultStyleTerm": "Blue Note"
+ },
+ {
+  "No": "487",
+  "defaultStyleTerm": "Contemporary Jazz"
+ },
+ {
+  "No": "488",
+  "defaultStyleTerm": "Cool"
+ },
+ {
+  "No": "489",
+  "defaultStyleTerm": "Crossover Jazz"
+ },
+ {
+  "No": "490",
+  "defaultStyleTerm": "Dixieland"
+ },
+ {
+  "No": "491",
+  "defaultStyleTerm": "Ethio-jazz"
+ },
+ {
+  "No": "492",
+  "defaultStyleTerm": "Fusion"
+ },
+ {
+  "No": "493",
+  "defaultStyleTerm": "Gypsy Jazz"
+ },
+ {
+  "No": "494",
+  "defaultStyleTerm": "Hard Bop"
+ },
+ {
+  "No": "495",
+  "defaultStyleTerm": "Latin Jazz"
+ },
+ {
+  "No": "496",
+  "defaultStyleTerm": "Mainstream Jazz"
+ },
+ {
+  "No": "497",
+  "defaultStyleTerm": "Ragtime"
+ },
+ {
+  "No": "498",
+  "defaultStyleTerm": "Smooth Jazz"
+ },
+ {
+  "No": "499",
+  "defaultStyleTerm": "Trad Jazz"
+ },
+ {
+  "No": "500",
+  "defaultStyleTerm": "Third Stream"
+ },
+ {
+  "No": "501",
+  "defaultStyleTerm": "Jazz-Funk"
+ },
+ {
+  "No": "502",
+  "defaultStyleTerm": "Free Jazz"
+ },
+ {
+  "No": "503",
+  "defaultStyleTerm": "Modal Jazz"
+ },
+ {
+  "No": "504",
+  "defaultStyleTerm": "K-Pop"
+ },
+ {
+  "No": "505",
+  "defaultStyleTerm": "Karaoke"
+ },
+ {
+  "No": "506",
+  "defaultStyleTerm": "Kayokyoku"
+ },
+ {
+  "No": "507",
+  "defaultStyleTerm": "Latin"
+ },
+ {
+  "No": "508",
+  "defaultStyleTerm": "Alternativo & Rock Latino"
+ },
+ {
+  "No": "509",
+  "defaultStyleTerm": "Argentine tango"
+ },
+ {
+  "No": "510",
+  "defaultStyleTerm": "Bachata"
+ },
+ {
+  "No": "511",
+  "defaultStyleTerm": "Baithak Gana"
+ },
+ {
+  "No": "512",
+  "defaultStyleTerm": "Baladas y Boleros"
+ },
+ {
+  "No": "513",
+  "defaultStyleTerm": "Bolero"
+ },
+ {
+  "No": "514",
+  "defaultStyleTerm": "Bossa Nova"
+ },
+ {
+  "No": "515",
+  "defaultStyleTerm": "Brazilian"
+ },
+ {
+  "No": "516",
+  "defaultStyleTerm": "Axé"
+ },
+ {
+  "No": "517",
+  "defaultStyleTerm": "Brazilian Rock"
+ },
+ {
+  "No": "518",
+  "defaultStyleTerm": "Brega"
+ },
+ {
+  "No": "519",
+  "defaultStyleTerm": "Choro"
+ },
+ {
+  "No": "520",
+  "defaultStyleTerm": "Forró"
+ },
+ {
+  "No": "521",
+  "defaultStyleTerm": "Frevo"
+ },
+ {
+  "No": "522",
+  "defaultStyleTerm": "Funk Carioca"
+ },
+ {
+  "No": "523",
+  "defaultStyleTerm": "Lambada"
+ },
+ {
+  "No": "524",
+  "defaultStyleTerm": "Maracatu"
+ },
+ {
+  "No": "525",
+  "defaultStyleTerm": "Música Popular Brasileira"
+ },
+ {
+  "No": "526",
+  "defaultStyleTerm": "Música Sertaneja"
+ },
+ {
+  "No": "527",
+  "defaultStyleTerm": "Pagode"
+ },
+ {
+  "No": "528",
+  "defaultStyleTerm": "Samba"
+ },
+ {
+  "No": "529",
+  "defaultStyleTerm": "Samba Rock"
+ },
+ {
+  "No": "530",
+  "defaultStyleTerm": "Tecnobrega"
+ },
+ {
+  "No": "531",
+  "defaultStyleTerm": "Tropicalia"
+ },
+ {
+  "No": "532",
+  "defaultStyleTerm": "Zouk-Lambada"
+ },
+ {
+  "No": "533",
+  "defaultStyleTerm": "Metal"
+ },
+ {
+  "No": "534",
+  "defaultStyleTerm": "Heavy Metal"
+ },
+ {
+  "No": "535",
+  "defaultStyleTerm": "Speed Metal"
+ },
+ {
+  "No": "536",
+  "defaultStyleTerm": "Thrash Metal"
+ },
+ {
+  "No": "537",
+  "defaultStyleTerm": "Power Metal"
+ },
+ {
+  "No": "538",
+  "defaultStyleTerm": "Death Metal"
+ },
+ {
+  "No": "539",
+  "defaultStyleTerm": "Black Metall"
+ },
+ {
+  "No": "540",
+  "defaultStyleTerm": "Pagan Metal"
+ },
+ {
+  "No": "541",
+  "defaultStyleTerm": "Viking Metal"
+ },
+ {
+  "No": "542",
+  "defaultStyleTerm": "Folk Metal"
+ },
+ {
+  "No": "543",
+  "defaultStyleTerm": "Symphonic Metal"
+ },
+ {
+  "No": "544",
+  "defaultStyleTerm": "Gothic Metal"
+ },
+ {
+  "No": "545",
+  "defaultStyleTerm": "Glam Metal"
+ },
+ {
+  "No": "546",
+  "defaultStyleTerm": "Hair Metal"
+ },
+ {
+  "No": "547",
+  "defaultStyleTerm": "Doom Metal"
+ },
+ {
+  "No": "548",
+  "defaultStyleTerm": "Groove Metal"
+ },
+ {
+  "No": "549",
+  "defaultStyleTerm": "Modern Metal"
+ },
+ {
+  "No": "550",
+  "defaultStyleTerm": "Neoclassical Metal"
+ },
+ {
+  "No": "551",
+  "defaultStyleTerm": "New Wave Of British Heavy Metal"
+ },
+ {
+  "No": "552",
+  "defaultStyleTerm": "Post Metal"
+ },
+ {
+  "No": "553",
+  "defaultStyleTerm": "Progressive Metal"
+ },
+ {
+  "No": "554",
+  "defaultStyleTerm": "Avantgarde Metal"
+ },
+ {
+  "No": "555",
+  "defaultStyleTerm": "Sludge"
+ },
+ {
+  "No": "556",
+  "defaultStyleTerm": "Djent"
+ },
+ {
+  "No": "557",
+  "defaultStyleTerm": "Drone"
+ },
+ {
+  "No": "558",
+  "defaultStyleTerm": "Kawaii Metal"
+ },
+ {
+  "No": "559",
+  "defaultStyleTerm": "Pirate Metal"
+ },
+ {
+  "No": "560",
+  "defaultStyleTerm": "Nu Metal"
+ },
+ {
+  "No": "561",
+  "defaultStyleTerm": "Math Metal"
+ },
+ {
+  "No": "562",
+  "defaultStyleTerm": "Crossover"
+ },
+ {
+  "No": "563",
+  "defaultStyleTerm": "Grindcore"
+ },
+ {
+  "No": "564",
+  "defaultStyleTerm": "Metalcore"
+ },
+ {
+  "No": "565",
+  "defaultStyleTerm": "Deathcore"
+ },
+ {
+  "No": "566",
+  "defaultStyleTerm": "Post Hardcore"
+ },
+ {
+  "No": "567",
+  "defaultStyleTerm": "Mathcore"
+ },
+ {
+  "No": "568",
+  "defaultStyleTerm": "New Age"
+ },
+ {
+  "No": "569",
+  "defaultStyleTerm": "Environmental"
+ },
+ {
+  "No": "570",
+  "defaultStyleTerm": "Healing"
+ },
+ {
+  "No": "571",
+  "defaultStyleTerm": "Meditation"
+ },
+ {
+  "No": "572",
+  "defaultStyleTerm": "Nature"
+ },
+ {
+  "No": "573",
+  "defaultStyleTerm": "Relaxation"
+ },
+ {
+  "No": "574",
+  "defaultStyleTerm": "Travel"
+ },
+ {
+  "No": "575",
+  "defaultStyleTerm": "Pop"
+ },
+ {
+  "No": "576",
+  "defaultStyleTerm": "Adult Contemporary Pop"
+ },
+ {
+  "No": "577",
+  "defaultStyleTerm": "Arab Pop"
+ },
+ {
+  "No": "578",
+  "defaultStyleTerm": "Baroque Pop"
+ },
+ {
+  "No": "579",
+  "defaultStyleTerm": "Britpop"
+ },
+ {
+  "No": "580",
+  "defaultStyleTerm": "Bubblegum Pop"
+ },
+ {
+  "No": "581",
+  "defaultStyleTerm": "Chamber Pop"
+ },
+ {
+  "No": "582",
+  "defaultStyleTerm": "Chanson Pop"
+ },
+ {
+  "No": "583",
+  "defaultStyleTerm": "Classical Crossover Pop"
+ },
+ {
+  "No": "584",
+  "defaultStyleTerm": "Europop"
+ },
+ {
+  "No": "585",
+  "defaultStyleTerm": "Austropop"
+ },
+ {
+  "No": "586",
+  "defaultStyleTerm": "Balkan Pop"
+ },
+ {
+  "No": "587",
+  "defaultStyleTerm": "Latin Pop"
+ },
+ {
+  "No": "588",
+  "defaultStyleTerm": "Laïkó"
+ },
+ {
+  "No": "589",
+  "defaultStyleTerm": "Nederpop"
+ },
+ {
+  "No": "590",
+  "defaultStyleTerm": "Russian Pop"
+ },
+ {
+  "No": "591",
+  "defaultStyleTerm": "Dance Pop"
+ },
+ {
+  "No": "592",
+  "defaultStyleTerm": "Dream Pop"
+ },
+ {
+  "No": "593",
+  "defaultStyleTerm": "Electro Pop"
+ },
+ {
+  "No": "594",
+  "defaultStyleTerm": "Iranian Pop"
+ },
+ {
+  "No": "595",
+  "defaultStyleTerm": "Jangle Pop"
+ },
+ {
+  "No": "596",
+  "defaultStyleTerm": "Latin Ballad Pop"
+ },
+ {
+  "No": "597",
+  "defaultStyleTerm": "Levenslied"
+ },
+ {
+  "No": "598",
+  "defaultStyleTerm": "Louisiana Swamp Pop"
+ },
+ {
+  "No": "599",
+  "defaultStyleTerm": "Mexican Pop"
+ },
+ {
+  "No": "600",
+  "defaultStyleTerm": "Motorpop"
+ },
+ {
+  "No": "601",
+  "defaultStyleTerm": "New Romanticism"
+ },
+ {
+  "No": "602",
+  "defaultStyleTerm": "Orchestral Pop"
+ },
+ {
+  "No": "603",
+  "defaultStyleTerm": "Pop Rap"
+ },
+ {
+  "No": "604",
+  "defaultStyleTerm": "Popera"
+ },
+ {
+  "No": "605",
+  "defaultStyleTerm": "Pop/Rock"
+ },
+ {
+  "No": "606",
+  "defaultStyleTerm": "Pop Punk"
+ },
+ {
+  "No": "607",
+  "defaultStyleTerm": "Power Pop"
+ },
+ {
+  "No": "608",
+  "defaultStyleTerm": "Psychedelic Pop"
+ },
+ {
+  "No": "609",
+  "defaultStyleTerm": "Schlager"
+ },
+ {
+  "No": "610",
+  "defaultStyleTerm": "Soft Rock"
+ },
+ {
+  "No": "611",
+  "defaultStyleTerm": "Sophisti-Pop"
+ },
+ {
+  "No": "612",
+  "defaultStyleTerm": "Space Age Pop"
+ },
+ {
+  "No": "613",
+  "defaultStyleTerm": "Sunshine Pop"
+ },
+ {
+  "No": "614",
+  "defaultStyleTerm": "Surf Pop"
+ },
+ {
+  "No": "615",
+  "defaultStyleTerm": "Teen Pop"
+ },
+ {
+  "No": "616",
+  "defaultStyleTerm": "Traditional Pop Music"
+ },
+ {
+  "No": "617",
+  "defaultStyleTerm": "Turkish Pop"
+ },
+ {
+  "No": "618",
+  "defaultStyleTerm": "Vispop"
+ },
+ {
+  "No": "619",
+  "defaultStyleTerm": "Wonky Pop"
+ },
+ {
+  "No": "620",
+  "defaultStyleTerm": "Post-Disco"
+ },
+ {
+  "No": "621",
+  "defaultStyleTerm": "Boogie"
+ },
+ {
+  "No": "622",
+  "defaultStyleTerm": "Dance-pop"
+ },
+ {
+  "No": "623",
+  "defaultStyleTerm": "Progressive House / Trance"
+ },
+ {
+  "No": "624",
+  "defaultStyleTerm": "Disco House"
+ },
+ {
+  "No": "625",
+  "defaultStyleTerm": "Dream House"
+ },
+ {
+  "No": "626",
+  "defaultStyleTerm": "Space House"
+ },
+ {
+  "No": "627",
+  "defaultStyleTerm": "Japanese House"
+ },
+ {
+  "No": "628",
+  "defaultStyleTerm": "Bounce / Scouse House"
+ },
+ {
+  "No": "629",
+  "defaultStyleTerm": "Progressive Breaks"
+ },
+ {
+  "No": "630",
+  "defaultStyleTerm": "Progressive Drum & Bass"
+ },
+ {
+  "No": "631",
+  "defaultStyleTerm": "Progressive Techno"
+ },
+ {
+  "No": "632",
+  "defaultStyleTerm": "R&B/Soul"
+ },
+ {
+  "No": "633",
+  "defaultStyleTerm": "Disco"
+ },
+ {
+  "No": "634",
+  "defaultStyleTerm": "Doo Wop"
+ },
+ {
+  "No": "635",
+  "defaultStyleTerm": "Funk"
+ },
+ {
+  "No": "636",
+  "defaultStyleTerm": "Modern Soul"
+ },
+ {
+  "No": "637",
+  "defaultStyleTerm": "Motown"
+ },
+ {
+  "No": "638",
+  "defaultStyleTerm": "Neo-Soul"
+ },
+ {
+  "No": "639",
+  "defaultStyleTerm": "Northern Soul"
+ },
+ {
+  "No": "640",
+  "defaultStyleTerm": "Psychedelic Soul"
+ },
+ {
+  "No": "641",
+  "defaultStyleTerm": "Quiet Storm"
+ },
+ {
+  "No": "642",
+  "defaultStyleTerm": "Soul"
+ },
+ {
+  "No": "643",
+  "defaultStyleTerm": "Southern Soul"
+ },
+ {
+  "No": "644",
+  "defaultStyleTerm": "Reggae"
+ },
+ {
+  "No": "645",
+  "defaultStyleTerm": "2-Tone"
+ },
+ {
+  "No": "646",
+  "defaultStyleTerm": "Dancehall"
+ },
+ {
+  "No": "647",
+  "defaultStyleTerm": "Dub"
+ },
+ {
+  "No": "648",
+  "defaultStyleTerm": "Roots Reggae"
+ },
+ {
+  "No": "649",
+  "defaultStyleTerm": "Reggae Fusion"
+ },
+ {
+  "No": "650",
+  "defaultStyleTerm": "Reggae en Español"
+ },
+ {
+  "No": "651",
+  "defaultStyleTerm": "Spanish Reggae"
+ },
+ {
+  "No": "652",
+  "defaultStyleTerm": "Reggae 110"
+ },
+ {
+  "No": "653",
+  "defaultStyleTerm": "Reggae Bultrón"
+ },
+ {
+  "No": "654",
+  "defaultStyleTerm": "Romantic Flow"
+ },
+ {
+  "No": "655",
+  "defaultStyleTerm": "Lovers Rock"
+ },
+ {
+  "No": "656",
+  "defaultStyleTerm": "Raggamuffin"
+ },
+ {
+  "No": "657",
+  "defaultStyleTerm": "Ragga"
+ },
+ {
+  "No": "658",
+  "defaultStyleTerm": "Ska"
+ },
+ {
+  "No": "659",
+  "defaultStyleTerm": "Rocksteady"
+ },
+ {
+  "No": "660",
+  "defaultStyleTerm": "Rock"
+ },
+ {
+  "No": "661",
+  "defaultStyleTerm": "Acid Rock"
+ },
+ {
+  "No": "662",
+  "defaultStyleTerm": "Adult-Oriented Rock"
+ },
+ {
+  "No": "663",
+  "defaultStyleTerm": "Afro Punk"
+ },
+ {
+  "No": "664",
+  "defaultStyleTerm": "Adult Alternative"
+ },
+ {
+  "No": "665",
+  "defaultStyleTerm": "American Traditional Rock"
+ },
+ {
+  "No": "666",
+  "defaultStyleTerm": "Anatolian Rock"
+ },
+ {
+  "No": "667",
+  "defaultStyleTerm": "Arena Rock"
+ },
+ {
+  "No": "668",
+  "defaultStyleTerm": "Art Rock"
+ },
+ {
+  "No": "669",
+  "defaultStyleTerm": "Blues-Rock"
+ },
+ {
+  "No": "670",
+  "defaultStyleTerm": "British Invasion"
+ },
+ {
+  "No": "671",
+  "defaultStyleTerm": "Cock Rock"
+ },
+ {
+  "No": "672",
+  "defaultStyleTerm": "Death Metal / Black Metal"
+ },
+ {
+  "No": "673",
+  "defaultStyleTerm": "Glam Rock"
+ },
+ {
+  "No": "674",
+  "defaultStyleTerm": "Grind Core"
+ },
+ {
+  "No": "675",
+  "defaultStyleTerm": "Math Rock"
+ },
+ {
+  "No": "676",
+  "defaultStyleTerm": "Metal Core"
+ },
+ {
+  "No": "677",
+  "defaultStyleTerm": "Noise Rock"
+ },
+ {
+  "No": "678",
+  "defaultStyleTerm": "Jam Bands"
+ },
+ {
+  "No": "679",
+  "defaultStyleTerm": "Post Punk"
+ },
+ {
+  "No": "680",
+  "defaultStyleTerm": "Prog-Rock"
+ },
+ {
+  "No": "681",
+  "defaultStyleTerm": "Psychedelic"
+ },
+ {
+  "No": "682",
+  "defaultStyleTerm": "Rock & Roll"
+ },
+ {
+  "No": "683",
+  "defaultStyleTerm": "Rockabilly"
+ },
+ {
+  "No": "684",
+  "defaultStyleTerm": "Roots Rock"
+ },
+ {
+  "No": "685",
+  "defaultStyleTerm": "Southern Rock"
+ },
+ {
+  "No": "686",
+  "defaultStyleTerm": "Spazzcore"
+ },
+ {
+  "No": "687",
+  "defaultStyleTerm": "Stoner Metal"
+ },
+ {
+  "No": "688",
+  "defaultStyleTerm": "Surf"
+ },
+ {
+  "No": "689",
+  "defaultStyleTerm": "Technical Death Metal"
+ },
+ {
+  "No": "690",
+  "defaultStyleTerm": "Tex-Mex"
+ },
+ {
+  "No": "691",
+  "defaultStyleTerm": "Time Lord Rock (Trock)"
+ },
+ {
+  "No": "692",
+  "defaultStyleTerm": "Trip-hop"
+ },
+ {
+  "No": "693",
+  "defaultStyleTerm": "Singer/Songwriter"
+ },
+ {
+  "No": "694",
+  "defaultStyleTerm": "Alternative Folk"
+ },
+ {
+  "No": "695",
+  "defaultStyleTerm": "Contemporary Singer/Songwriter"
+ },
+ {
+  "No": "696",
+  "defaultStyleTerm": "Folk-Rock"
+ },
+ {
+  "No": "697",
+  "defaultStyleTerm": "Love Song"
+ },
+ {
+  "No": "698",
+  "defaultStyleTerm": "New Acoustic"
+ },
+ {
+  "No": "699",
+  "defaultStyleTerm": "Traditional Folk"
+ },
+ {
+  "No": "700",
+  "defaultStyleTerm": "Soundtrack"
+ },
+ {
+  "No": "701",
+  "defaultStyleTerm": "Foreign Cinema"
+ },
+ {
+  "No": "702",
+  "defaultStyleTerm": "Movie Soundtrack"
+ },
+ {
+  "No": "703",
+  "defaultStyleTerm": "Musicals"
+ },
+ {
+  "No": "704",
+  "defaultStyleTerm": "Original Score"
+ },
+ {
+  "No": "705",
+  "defaultStyleTerm": "TV Soundtrack"
+ },
+ {
+  "No": "706",
+  "defaultStyleTerm": "Spoken Word"
+ },
+ {
+  "No": "707",
+  "defaultStyleTerm": "Tex-Mex / Tejano"
+ },
+ {
+  "No": "708",
+  "defaultStyleTerm": "Chicano"
+ },
+ {
+  "No": "709",
+  "defaultStyleTerm": "Classic Tex-Mex"
+ },
+ {
+  "No": "710",
+  "defaultStyleTerm": "Conjunto"
+ },
+ {
+  "No": "711",
+  "defaultStyleTerm": "Conjunto Progressive"
+ },
+ {
+  "No": "712",
+  "defaultStyleTerm": "New Mex"
+ },
+ {
+  "No": "713",
+  "defaultStyleTerm": "Vocal"
+ },
+ {
+  "No": "714",
+  "defaultStyleTerm": "A cappella"
+ },
+ {
+  "No": "715",
+  "defaultStyleTerm": "Barbershop"
+ },
+ {
+  "No": "716",
+  "defaultStyleTerm": "Cantique"
+ },
+ {
+  "No": "717",
+  "defaultStyleTerm": "Doo-wop"
+ },
+ {
+  "No": "718",
+  "defaultStyleTerm": "Gregorian Chant"
+ },
+ {
+  "No": "719",
+  "defaultStyleTerm": "Standards"
+ },
+ {
+  "No": "720",
+  "defaultStyleTerm": "Traditional Pop"
+ },
+ {
+  "No": "721",
+  "defaultStyleTerm": "Vocal Jazz"
+ },
+ {
+  "No": "722",
+  "defaultStyleTerm": "Vocal Pop"
+ },
+ {
+  "No": "723",
+  "defaultStyleTerm": "World"
+ },
+ {
+  "No": "724",
+  "defaultStyleTerm": "African Heavy Metal"
+ },
+ {
+  "No": "725",
+  "defaultStyleTerm": "African Hip Hop"
+ },
+ {
+  "No": "726",
+  "defaultStyleTerm": "Afro-Beat"
+ },
+ {
+  "No": "727",
+  "defaultStyleTerm": "Afro-Pop"
+ },
+ {
+  "No": "728",
+  "defaultStyleTerm": "Apala"
+ },
+ {
+  "No": "729",
+  "defaultStyleTerm": "Benga"
+ },
+ {
+  "No": "730",
+  "defaultStyleTerm": "Bikutsi"
+ },
+ {
+  "No": "731",
+  "defaultStyleTerm": "Bongo Flava"
+ },
+ {
+  "No": "732",
+  "defaultStyleTerm": "Cape Jazz"
+ },
+ {
+  "No": "733",
+  "defaultStyleTerm": "Chimurenga"
+ },
+ {
+  "No": "734",
+  "defaultStyleTerm": "Coupé-Décalé"
+ },
+ {
+  "No": "735",
+  "defaultStyleTerm": "Fuji Music"
+ },
+ {
+  "No": "736",
+  "defaultStyleTerm": "Genge"
+ },
+ {
+  "No": "737",
+  "defaultStyleTerm": "Highlife"
+ },
+ {
+  "No": "738",
+  "defaultStyleTerm": "Hiplife"
+ },
+ {
+  "No": "739",
+  "defaultStyleTerm": "Isicathamiya"
+ },
+ {
+  "No": "740",
+  "defaultStyleTerm": "Jit"
+ },
+ {
+  "No": "741",
+  "defaultStyleTerm": "Jùjú"
+ },
+ {
+  "No": "742",
+  "defaultStyleTerm": "Kapuka"
+ },
+ {
+  "No": "743",
+  "defaultStyleTerm": "Kizomba"
+ },
+ {
+  "No": "744",
+  "defaultStyleTerm": "Kuduro"
+ },
+ {
+  "No": "745",
+  "defaultStyleTerm": "Kwaito"
+ },
+ {
+  "No": "746",
+  "defaultStyleTerm": "Kwela"
+ },
+ {
+  "No": "747",
+  "defaultStyleTerm": "Makossa"
+ },
+ {
+  "No": "748",
+  "defaultStyleTerm": "Maloya"
+ },
+ {
+  "No": "749",
+  "defaultStyleTerm": "Marrabenta"
+ },
+ {
+  "No": "750",
+  "defaultStyleTerm": "Mbalax"
+ },
+ {
+  "No": "751",
+  "defaultStyleTerm": "Mbaqanga"
+ },
+ {
+  "No": "752",
+  "defaultStyleTerm": "Mbube"
+ },
+ {
+  "No": "753",
+  "defaultStyleTerm": "Morna"
+ },
+ {
+  "No": "754",
+  "defaultStyleTerm": "Museve"
+ },
+ {
+  "No": "755",
+  "defaultStyleTerm": "Palm-Wine"
+ },
+ {
+  "No": "756",
+  "defaultStyleTerm": "Raï"
+ },
+ {
+  "No": "757",
+  "defaultStyleTerm": "Sakara"
+ },
+ {
+  "No": "758",
+  "defaultStyleTerm": "Sega"
+ },
+ {
+  "No": "759",
+  "defaultStyleTerm": "Seggae"
+ },
+ {
+  "No": "760",
+  "defaultStyleTerm": "Semba"
+ },
+ {
+  "No": "761",
+  "defaultStyleTerm": "Soukous"
+ },
+ {
+  "No": "762",
+  "defaultStyleTerm": "Taarab"
+ },
+ {
+  "No": "763",
+  "defaultStyleTerm": "Zouglou"
+ },
+ {
+  "No": "764",
+  "defaultStyleTerm": "Anison"
+ },
+ {
+  "No": "765",
+  "defaultStyleTerm": "C-Pop"
+ },
+ {
+  "No": "766",
+  "defaultStyleTerm": "Cantopop"
+ },
+ {
+  "No": "767",
+  "defaultStyleTerm": "Hong Kong English Pop"
+ },
+ {
+  "No": "768",
+  "defaultStyleTerm": "Fann At-Tanbura"
+ },
+ {
+  "No": "769",
+  "defaultStyleTerm": "Fijiri"
+ },
+ {
+  "No": "770",
+  "defaultStyleTerm": "Japanese Pop"
+ },
+ {
+  "No": "771",
+  "defaultStyleTerm": "Khaliji"
+ },
+ {
+  "No": "772",
+  "defaultStyleTerm": "Kayōkyoku"
+ },
+ {
+  "No": "773",
+  "defaultStyleTerm": "Korean Pop"
+ },
+ {
+  "No": "774",
+  "defaultStyleTerm": "Liwa"
+ },
+ {
+  "No": "775",
+  "defaultStyleTerm": "Mandopop"
+ },
+ {
+  "No": "776",
+  "defaultStyleTerm": "Onkyokei"
+ },
+ {
+  "No": "777",
+  "defaultStyleTerm": "Taiwanese Pop"
+ },
+ {
+  "No": "778",
+  "defaultStyleTerm": "Sawt"
+ },
+ {
+  "No": "779",
+  "defaultStyleTerm": "Cajun"
+ },
+ {
+  "No": "780",
+  "defaultStyleTerm": "Calypso"
+ },
+ {
+  "No": "781",
+  "defaultStyleTerm": "Chutney"
+ },
+ {
+  "No": "782",
+  "defaultStyleTerm": "Chutney Soca"
+ },
+ {
+  "No": "783",
+  "defaultStyleTerm": "Compas"
+ },
+ {
+  "No": "784",
+  "defaultStyleTerm": "Mambo"
+ },
+ {
+  "No": "785",
+  "defaultStyleTerm": "Merengue"
+ },
+ {
+  "No": "786",
+  "defaultStyleTerm": "Méringue"
+ },
+ {
+  "No": "787",
+  "defaultStyleTerm": "Carnatic"
+ },
+ {
+  "No": "788",
+  "defaultStyleTerm": "Celtic"
+ },
+ {
+  "No": "789",
+  "defaultStyleTerm": "Celtic Folk"
+ },
+ {
+  "No": "790",
+  "defaultStyleTerm": "Contemporary Celtic"
+ },
+ {
+  "No": "791",
+  "defaultStyleTerm": "Dangdut"
+ },
+ {
+  "No": "792",
+  "defaultStyleTerm": "Drinking Songs"
+ },
+ {
+  "No": "793",
+  "defaultStyleTerm": "Klezmer"
+ },
+ {
+  "No": "794",
+  "defaultStyleTerm": "Ode"
+ },
+ {
+  "No": "795",
+  "defaultStyleTerm": "Piphat"
+ },
+ {
+  "No": "796",
+  "defaultStyleTerm": "Polka"
+ },
+ {
+  "No": "797",
+  "defaultStyleTerm": "Soca"
+ },
+ {
+  "No": "798",
+  "defaultStyleTerm": "Baila"
+ },
+ {
+  "No": "799",
+  "defaultStyleTerm": "Bhangra"
+ },
+ {
+  "No": "800",
+  "defaultStyleTerm": "Bhojpuri"
+ },
+ {
+  "No": "801",
+  "defaultStyleTerm": "Filmi"
+ },
+ {
+  "No": "802",
+  "defaultStyleTerm": "Indian Pop"
+ },
+ {
+  "No": "803",
+  "defaultStyleTerm": "Hindustani"
+ },
+ {
+  "No": "804",
+  "defaultStyleTerm": "Indian Ghazal"
+ },
+ {
+  "No": "805",
+  "defaultStyleTerm": "Lavani"
+ },
+ {
+  "No": "806",
+  "defaultStyleTerm": "Luk Thung"
+ },
+ {
+  "No": "807",
+  "defaultStyleTerm": "Luk Krung"
+ },
+ {
+  "No": "808",
+  "defaultStyleTerm": "Manila Sound"
+ },
+ {
+  "No": "809",
+  "defaultStyleTerm": "Morlam"
+ },
+ {
+  "No": "810",
+  "defaultStyleTerm": "Pinoy Pop"
+ },
+ {
+  "No": "811",
+  "defaultStyleTerm": "Pop Sunda"
+ },
+ {
+  "No": "812",
+  "defaultStyleTerm": "Ragini"
+ },
+ {
+  "No": "813",
+  "defaultStyleTerm": "Thai Pop"
+ },
+ {
+  "No": "814",
+  "defaultStyleTerm": "Traditional Celtic"
+ },
+ {
+  "No": "815",
+  "defaultStyleTerm": "Worldbeat"
+ }
+]

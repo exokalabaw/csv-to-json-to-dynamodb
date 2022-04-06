@@ -1,0 +1,424 @@
+No,Instrument
+1,vocal / voice
+2,guitar
+3,vuvuzela
+3,electric guitar
+4,washboard
+4,acoustic guitar
+5,washtub bass
+5,bass guitar
+6,classical guitar
+7,piano
+8,grand piano
+9,acoustic grand piano
+10,gudok
+10,acoustic piano
+11,upright piano
+12,acoustic upright piano
+13,hybrid piano
+14,digital piano
+15,harpsichord
+16,clavichord
+17,spinet
+18,celesta
+19,fortepiano
+20,pipe organ
+21,pogo cello
+21,virginals
+22,organ
+23,keyboards
+24,electric keyboards
+25,khamak
+26,klopotec
+25,synthesizer
+26,synthesizer keyboards
+27,portable keyboards
+28,arranger keyboards
+29,midi keyboard
+30,drum machine
+31,modular
+32,analog synth
+33,digital synth
+34,dingulator
+34,stage piano
+35,eurorack
+36,rackmount
+37,workstation keyboard
+38,modular synthesizer
+39,guitar synthesizer
+40,mountain dulcimer
+41,guitarra portuguesa
+40,theremin
+41,trautonium
+42,electric organ
+43,trembita
+43,sequencers / samplers
+44,tres
+44,drum computer
+45,production and performance instrument
+46,digital drum synthesizer
+47,music workstation
+48,dj controller
+49,musical saw
+49,dj mixer
+50,turntable
+51,saxophone
+52,trumpet
+53,flute
+54,clarinet
+55,trombone
+56,tuba
+57,euphonium
+58,sousaphone
+59,baritone horn
+60,spilåpipa
+60,french horn
+61,english horn
+62,fujara
+63,gadulka
+62,oboe
+63,bassoon
+64,gaida
+64,cornet
+65,gamelan
+65,soprano sax
+66,alto sax
+67,tenor sax
+68,bass sax
+69,baritone sax
+70,wind controller
+71,ewi / electronic wind instrument
+72,western concert flute
+73,aerophone
+74,flugelhorn
+75,piccolo
+76,bass clarinet
+77,alto clarinet
+78,bass trombone
+79,didgeridoo
+80,bugle
+81,bukkehorn
+81,shofar
+82,bullroarer
+82,shawm
+83,conch
+84,shehnai
+85,concheras
+84,lur
+85,post horn
+86,cornu
+87,roman tuba
+88,natural trumpet
+89,yidaki
+90,melodica
+91,recorder
+92,harmonica
+93,harmonium
+93,violin
+94,viola
+95,cello
+96,viola beiroa
+96,bass
+97,celtic harp
+98,viola braguesa
+97,double bass
+98,viola caipira
+98,silent violin
+99,viola campaniça
+99,silent viola
+100,sinfonia
+101,viola da terra
+100,silent cello
+101,viola toeira
+101,silent double bass
+102,electric violin
+103,electric viola
+104,electric cello
+105,electric double bass
+106,drums
+107,electronic drums
+108,acoustic drums
+109,maracas
+110,wooden jingle stick
+111,xylophone
+112,tri tone chimes
+113,yangqin
+113,timpani
+114,tambourine
+115,tin whistle
+115,glockenspiel
+116,marimba
+117,marimbula
+117,metallophone
+118,vibraphone
+119,triangle
+120,wood drums
+121,snare drum
+122,bells
+123,sopilka
+123,bock-a-da-bock
+124,cabasa
+125,cajón
+126,castanets
+127,catá
+127,chimes
+128,cavaquinho
+128,claves
+129,cowbell
+130,crash cymbals
+131,crotales
+132,cuatro
+132,daxophone
+133,flexatone
+134,güiro / guiro
+135,guitalin
+135,handbells
+136,hi-hat
+137,lummi stick
+138,maraca
+139,orchestra bells
+140,quadrangularis reversum
+141,quena
+141,ratchet
+142,rabeca
+142,singing bowl
+143,slit drum
+144,smallpipes
+144,steelpan
+145,suspended cymbal
+146,švilpa
+146,temple blocks
+147,thumb piano / kalimba
+148,txalaparta
+149,vibraslap
+150,wood block
+151,bass drum
+152,bongos / bongo drum
+153,conga
+154,darbuka
+155,djembe
+156,mridangam
+157,octoban
+158,parai
+159,rototom
+160,rubab
+160,tabla
+161,salamiyyah
+161,thavil
+162,sarangi
+162,tom-tom
+163,lion's roar
+164,sasando
+164,urumi (drum)
+165,wind machine
+166,"hammered dulcimer, cimbalom"
+167,onavillu
+168,berimbau
+169,binioù kozh
+169,jhallari
+170,birimbau
+170,kolitong
+171,takumbo
+172,apito or samba whistle
+173,talking drum
+173,siren
+174,slide whistle
+175,udu
+176,uilleann pipes
+176,whistle
+177,chimes/tubular bells
+178,willow flute
+178,glass harmonica
+179,glass harp
+180,tuned triangle
+181,wind chimes
+182,xylo-marimba
+183,cymbals
+184,daegeum
+184,rainstick
+185,slapstick or whip
+186,tamtam
+187,egg shaker
+188,ektara
+188,gong
+189,cajon
+190,tumba
+191,hand drums
+192,repinique
+193,tan-tan
+194,caxixi
+195,timbau
+196,cuíca
+197,ganzá
+198,gayageum
+198,rattle
+199,ravanahatha
+199,tamborim
+200,pandeiro
+201,surdo
+202,balafon
+203,shekere
+204,atabaque
+205,agogô
+206,alboka
+206,mbira
+207,bell
+208,melodeon
+208,jingle bell
+209,handpan
+210,jouhikko
+211,hank drum
+212,jug
+210,tongue drum
+211,hardingfele
+212,kantele
+211,log drum
+212,frame drum
+213,kaval
+213,percussion block
+214,phamuk
+214,shaker
+215,timbale
+216,jaw harp
+217,gong drum
+218,jew harp
+218,rata tom
+219,barril de bomba
+220,globlet drum
+221,doumbek
+222,dranyen
+222,standing bell
+223,bendir
+224,steel guitar
+224,daf
+225,damphu
+225,sleigh bell
+226,marching drum
+227,ukulele
+228,banjo
+229,mandolin
+230,resonator guitar
+231,dulcimer
+232,resophonic guitar
+233,bagpipes
+234,acoustic microbass
+235,electric microbass
+236,piano accordion
+237,accordion
+238,bodhran
+239,bodhrán
+239,native american flute
+240,bombard
+240,wooden ratchet
+241,football rattle
+242,baby harp
+243,stick dulcimer guitar
+244,concertina
+245,stompbox
+245,ocarina
+246,finger cymbals
+247,octave mandolin
+247,panpipes
+248,pan pipes
+249,fiddle
+250,diatonic button accordion
+251,melodeon / melodium
+252,reed organ
+253,american organ
+254,tenor banjo
+255,spoons
+256,bones
+257,hurdy-gurdy
+258,hammered dulcimer
+259,bouzouki / buzuki
+260,acoustic mandolin
+261,brommtopp
+261,banjitar
+262,acoustic banjo
+263,electric banjo
+264,harp
+265,pedal harp
+266,lever harp
+267,latin-american/paraguayan harp
+268,celtic/folk harp
+269,launeddas
+270,chajchas
+269,modern wire harp
+270,electric harp
+271,cross-strung harp
+272,bell harp
+273,harp guitar
+274,wind harp
+275,deering banjo
+276,pan flute
+277,oud
+278,psaltery
+279,sitar
+280,dholak
+281,cura
+282,bağlama
+283,ghatam
+284,dhol
+285,riq
+286,qanun
+287,ney
+288,nyckelharpa
+288,tombak
+289,lute
+290,theorbo
+291,balalaika
+292,bandura
+292,mandola
+293,pipa
+294,archlute
+295,tanbur
+296,biwa
+297,laouto
+298,dombra
+299,låtfiol
+299,cobza
+300,charango
+301,tambur
+302,dutar
+303,tambura
+303,komuz
+304,kora
+304,mandocello
+305,pandura
+306,mandolute
+307,tovshuur
+308,tembûr
+309,chitarra italiana
+310,çifteli
+310,tiorbino
+311,angélique
+312,tiple
+313,angklung
+312,barbat
+313,domra
+314,dotara
+314,kobza
+315,lyre
+316,madal
+316,zither
+317,appalachian dulcimer
+318,zurna
+318,guzheng
+319,autoharp
+320,haegeum
+320,guqin
+321,cimbalom
+322,gusle
+323,çığırtma
+324,gusli
+322,rebab
+323,koto
+324,rebec
+324,erhu
+325,kulintang
+325,tympanon
+326,kazoo
+327,yu
+328,rondalla
+329,zampoña
+330,zhaleika
